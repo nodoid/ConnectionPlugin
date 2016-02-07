@@ -1,0 +1,8 @@
+ConnectionPlugin/bin/*
+ConnectionPlugin/obj/*
+Droid/obj/*
+Droid/bin/*
+iOS/obj/*
+iOS/bin/*
+packages/*
+
